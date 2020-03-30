@@ -1,0 +1,1265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Mart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-12 07:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "error"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:48
+msgid "Primary ( Appears in the header section after logo. )"
+msgstr ""
+
+#: functions.php:49
+msgid "Top Header ( Appears at the top section of the site. )"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-functions.php:154 inc/template-functions.php:174
+#: inc/widgets/cv-product-category-collection.php:52
+msgid "Select Category"
+msgstr ""
+
+#. %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:37
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:138
+msgid "No Image"
+msgstr ""
+
+#: inc/woocommerce.php:221
+msgid "View your shopping cart"
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:228
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/woocommerce.php:458 inc/woocommerce.php:466
+msgid "All Categories"
+msgstr ""
+
+#: inc/woocommerce.php:485
+msgid "Search products"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:24 template-parts/content-search.php:63
+#: template-parts/content-single.php:60 template-parts/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-search.php:52 template-parts/content-single.php:49
+#: template-parts/content.php:54
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content-widgets.php:33
+msgid "Read More"
+msgstr ""
+
+#. 1: Theme name, 2: Theme author.
+#: inc/custom-hooks/cv-footer-hooks.php:185
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: inc/custom-hooks/cv-header-hooks.php:248
+msgid "Category Menu"
+msgstr ""
+
+#: inc/custom-hooks/cv-header-hooks.php:286
+msgid "Menu"
+msgstr ""
+
+#: inc/custom-hooks/cv-header-hooks.php:288
+msgid "Close"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:15
+msgid "Show/hide Sticky Menu"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:16
+msgid "Make your main menu sticky."
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:29
+#: inc/customizer/cv-front-page-settings.php:87
+#: inc/customizer/cv-front-page-settings.php:137
+msgid "Display This Section From "
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:29
+#: inc/customizer/cv-front-page-settings.php:87
+#: inc/customizer/cv-front-page-settings.php:137
+msgid "Appearance"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:29
+#: inc/customizer/cv-front-page-settings.php:87
+#: inc/customizer/cv-front-page-settings.php:137
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:29 inc/widgets/cv-follow-us.php:21
+msgid "EM: Follow Us"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:37 inc/widgets/cv-follow-us.php:35
+msgid "Follow Us"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:38
+msgid "Drag & Drop items to re-arrange the order"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:43
+msgid "Follow Icon"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:62
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:68
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:81
+msgid "Customize scroll to button"
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:89
+msgid "Show/hide scroll to top button "
+msgstr ""
+
+#: inc/customizer/cv-additional-setting.php:104
+#: inc/widgets/cv-product-category-collection.php:68
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer/cv-customizer.php:54
+msgid "Buy Easy Mart Pro"
+msgstr ""
+
+#: inc/customizer/cv-customizer.php:126
+#: inc/customizer/cv-front-page-settings.php:42
+msgid "Announcement"
+msgstr ""
+
+#: inc/customizer/cv-design-setting.php:14
+msgid "Page Sidebar layout"
+msgstr ""
+
+#: inc/customizer/cv-design-setting.php:30
+msgid "Archive Sidebar layout"
+msgstr ""
+
+#: inc/customizer/cv-design-setting.php:46
+msgid "Post Sidebar layout"
+msgstr ""
+
+#: inc/customizer/cv-design-setting.php:62
+msgid "Sidebar layout"
+msgstr ""
+
+#: inc/customizer/cv-footer-setting.php:15
+msgid "Footer Text"
+msgstr ""
+
+#. Name of the theme
+#: inc/customizer/cv-footer-setting.php:17
+#: inc/welcome/easy-mart-welcome.php:444
+msgid "Easy Mart"
+msgstr ""
+
+#: inc/customizer/cv-footer-setting.php:30
+msgid "Payment Partner Image"
+msgstr ""
+
+#: inc/customizer/cv-footer-setting.php:47
+msgid "Footer layout"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:18
+msgid "Annoucement Ticker Option"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:25
+msgid "Show/Hide annoucement ticker section"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:40
+msgid "Ticker Caption"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:61
+msgid "Ticker Item"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:87
+#: inc/widgets/cv-promo-section.php:21
+msgid "EM: Promo Section"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:94
+msgid "Promo Content"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:99
+msgid "Promo"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:101
+msgid "Add new"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:109
+#: inc/widgets/cv-promo-section.php:83
+msgid "Free Delivery"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:113
+#: inc/widgets/cv-promo-section.php:87
+msgid "Free Shipping"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:119
+msgid "Promo Icon"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:125
+msgid "Promo Title"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:137
+#: inc/widgets/cv-partner-section.php:21
+msgid "EM: Partners Section"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:143
+msgid "Partners Images"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:148
+msgid "Partner"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:150
+msgid "\"Add new\""
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:158
+msgid "Partner Image"
+msgstr ""
+
+#: inc/customizer/cv-front-page-settings.php:163
+msgid "Image URL"
+msgstr ""
+
+#: inc/customizer/cv-general-setting.php:14
+msgid "Hide latest posts in frontpage."
+msgstr ""
+
+#: inc/customizer/cv-general-setting.php:15
+msgid "Option to show/hide latest posts in frontpage"
+msgstr ""
+
+#: inc/customizer/cv-general-setting.php:26
+msgid "Site Layout Setting"
+msgstr ""
+
+#: inc/customizer/cv-general-setting.php:34
+msgid "Site layout"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:15
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:26
+msgid "Add contact number"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:28
+msgid "+123 456 4444"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:41
+msgid "Add email"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:43
+msgid "abc@gmail.com"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:56
+msgid "Add address text"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:71
+msgid "Show/hide wishlist"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:72
+msgid "Activate your YITH WooCommerce Wishlist plugin to display wishlist"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:82
+msgid "Add Wishlist Text"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:84
+msgid "Wishlist"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:103
+msgid "Show/hide Category Menu"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:118
+msgid "Show/hide Cart"
+msgstr ""
+
+#: inc/customizer/cv-header-settings.php:119
+msgid "Activate your WooCommerce plugin to display cart"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:15
+msgid "General Setting"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:23
+msgid "Header Panel"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:31
+msgid "Front Page Panel"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:39
+msgid "Additional Setting"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:47
+msgid "Design Setting"
+msgstr ""
+
+#: inc/customizer/cv-panels.php:55
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:14
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:21 inc/widgets/cv-widget-functions.php:40
+msgid "Header Section"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:29
+msgid "Announcement Ticker Section"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:36
+msgid "Promo Section"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:43
+msgid "Partners Section"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:51
+msgid "Page Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:58
+msgid "Archive Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:65
+msgid "Post Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:73
+msgid "Woocommerce Page Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:82
+msgid "Sticky Menu Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:89
+msgid "Follow Us Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:96
+msgid "Scroll To Top Button Setting"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:105
+msgid "Footer Content"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:112
+msgid "Footer Column"
+msgstr ""
+
+#: inc/customizer/cv-sections.php:120
+msgid "Site Setting"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:63
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:70
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:98
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:99
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:100
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/em-required-plugins.php:101
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/em-required-plugins.php:102
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:103
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:108
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:113
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:118
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:123
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:128
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:133
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:138
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:143
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/em-required-plugins.php:148
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:149
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:150
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:151
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:152
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:153
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:154
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:155
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/em-required-plugins.php:156
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:34
+msgid "Welcome"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:72
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:76
+msgid "Cheat in &#8217; huh?"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:92
+msgid "Dismiss"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:93
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:94
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$s welcome page %3$s."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:95
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:115
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:127
+msgid "Theme Info"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:129
+msgid "View Demo"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:131 inc/welcome/easy-mart-welcome.php:209
+msgid "View PRO version"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:133
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:142
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:146
+msgid "More Themes"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:150
+msgid "Changelog"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:189
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:190
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:191 inc/welcome/easy-mart-welcome.php:276
+msgid "Customize"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:195 inc/welcome/easy-mart-welcome.php:197
+msgid "Documentation"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:196
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:201
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:202
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:203
+msgid "Support"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:207
+msgid "Need more features?"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:208 inc/welcome/easy-mart-welcome.php:438
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:213
+msgid "Have you need customization?"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:214
+msgid "Please send message with your requirement."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:215
+msgid "Customization"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:220
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:231
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:231
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:234
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:234
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:274
+msgid "Active"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:313
+msgid "Activate"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:322
+msgid "Install Now"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:325
+msgid "Live Preview"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:386
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:443
+msgid "Features"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:445
+msgid "Easy Mart Pro"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:450
+msgid "Price"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:451
+msgid "Free"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:452
+msgid "$59"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:455
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:460
+msgid "Pre Loaders"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:465
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:466 inc/welcome/easy-mart-welcome.php:471
+#: inc/welcome/easy-mart-welcome.php:501
+msgid "1"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:467 inc/welcome/easy-mart-welcome.php:472
+msgid "3"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:470
+msgid "Archive Pages Layouts"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:475
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:476 inc/welcome/easy-mart-welcome.php:502
+msgid "2"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:477
+msgid "600+"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:480
+msgid "Instagram Feature"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:485
+msgid "No. of Widgets"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:486
+msgid "7"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:487
+msgid "12"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:490
+msgid "Custom 404 page"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:495
+msgid "Animation on Section"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:500
+msgid "Bottom Footer Layouts"
+msgstr ""
+
+#: inc/welcome/easy-mart-welcome.php:508
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/widgets/cv-advanced-product-search.php:18
+msgid "Displays Advanced Search Form."
+msgstr ""
+
+#: inc/widgets/cv-advanced-product-search.php:21
+msgid "EM: Advanced Product Search"
+msgstr ""
+
+#: inc/widgets/cv-advanced-product-search.php:34
+msgid "Allows to search all your products."
+msgstr ""
+
+#: inc/widgets/cv-advanced-product-search.php:40
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:18
+msgid "Display Posts from specific category."
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:21
+msgid "EM: Default Post Category"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:34
+#: inc/widgets/cv-header-slider.php:59
+msgid "Default Category"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:40
+#: inc/widgets/cv-featured-latest-product-list.php:40
+#: inc/widgets/cv-follow-us.php:34 inc/widgets/cv-partner-section.php:34
+#: inc/widgets/cv-product-category-collection.php:38
+#: inc/widgets/cv-product-category.php:40
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:41
+msgid "Our Recent News"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:47
+msgid "Choose category"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:54
+#: inc/widgets/cv-header-slider.php:71
+msgid "No. of posts to display"
+msgstr ""
+
+#: inc/widgets/cv-default-post-category.php:62
+#: inc/widgets/cv-featured-latest-product-list.php:67
+#: inc/widgets/cv-product-category-collection.php:60
+#: inc/widgets/cv-product-category.php:62
+msgid "No of Section Columns"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:18
+msgid ""
+"Display WooCommerce products lists from chosen category type featured/latest."
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:21
+msgid "EM: Featured/Latest Products"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:34
+msgid "Displays Woocommerce Products"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:41
+#: inc/widgets/cv-featured-latest-product-list.php:53
+msgid "Featured Products"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:47
+msgid "Choose product type"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:49
+msgid "featured"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:52
+msgid "Latest Products"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:59
+msgid "No. of products to display"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:75
+#: inc/widgets/cv-product-category.php:70
+msgid "Section Layouts"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:80
+#: inc/widgets/cv-product-category.php:75
+msgid "List View"
+msgstr ""
+
+#: inc/widgets/cv-featured-latest-product-list.php:84
+#: inc/widgets/cv-product-category.php:79
+msgid "Layout 2"
+msgstr ""
+
+#: inc/widgets/cv-follow-us.php:18
+msgid "Displays Social Icons."
+msgstr ""
+
+#: inc/widgets/cv-follow-us.php:41 inc/widgets/cv-partner-section.php:41
+#: inc/widgets/cv-promo-section.php:34
+msgid "This section is customized from customizer."
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:18
+msgid ""
+"Display WooCommerce products or a posts from selected category as a slider."
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:21
+msgid "EM: Slider"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:31 inc/widgets/cv-header-slider.php:36
+msgid "Default Posts"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:32
+msgid "WooCommerce Product"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:44
+msgid "Slider Section"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:50
+msgid "Slider Post type"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:65
+msgid "Products Category"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:79
+msgid "Slide button text"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:80
+msgid "View Shop"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:86
+msgid "Right Slider Section"
+msgstr ""
+
+#: inc/widgets/cv-header-slider.php:92
+msgid "Check To Show Featured Products."
+msgstr ""
+
+#: inc/widgets/cv-partner-section.php:18
+msgid "Displays partners section content."
+msgstr ""
+
+#: inc/widgets/cv-partner-section.php:35
+msgid "Our Partners"
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:18
+msgid "Displays list of product categories."
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:21
+msgid "EM: Product Category Collection "
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:32
+msgid "Displays Product Categories"
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:39
+msgid "Categories with thumbnail image are only shown."
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:40
+msgid "Our Product Categories"
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:47
+msgid "Collection"
+msgstr ""
+
+#: inc/widgets/cv-product-category-collection.php:69
+msgid "View All"
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:18
+msgid "Display products from specific category."
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:21
+msgid "EM: Product Category"
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:34
+msgid "Product Category"
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:41
+msgid "Our latest Products"
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:47
+msgid "Choose Product Category"
+msgstr ""
+
+#: inc/widgets/cv-product-category.php:54
+msgid "No. of product to display"
+msgstr ""
+
+#: inc/widgets/cv-promo-section.php:18
+msgid "Displays promo section content."
+msgstr ""
+
+#: inc/widgets/cv-promo-section.php:40
+msgid "Section Title."
+msgstr ""
+
+#: inc/widgets/cv-promo-section.php:41
+msgid "PROMO"
+msgstr ""
+
+#: inc/widgets/cv-widget-fields.php:79 inc/widgets/cv-widget-fields.php:117
+#: inc/widgets/cv-widget-fields.php:155
+msgid "- - Select Category - -"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:25
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:27
+#: inc/widgets/cv-widget-functions.php:102
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:42
+msgid "This section is displayed after the site logo."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:55
+msgid "Frontpage Top Section"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:57
+msgid ""
+"Displays content on the top of the main content area with full width on "
+"frontpage."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:70
+msgid "FrontPage Middle Sections"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:72
+msgid ""
+"Add widgets here to display it in the middle part of the main content area "
+"on frontpage."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:85
+msgid "FrontPage Middle Section Sidebar"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:87
+msgid ""
+"Add widgets here to display it on the right side of the main content area on "
+"frontpage."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:100
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:115
+msgid "Front Page Bottom Section"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:117
+msgid ""
+"Add widgets here to display it with full width on the bottom of the main "
+"content area on frontpage."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:130
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:132
+#: inc/widgets/cv-widget-functions.php:147
+#: inc/widgets/cv-widget-functions.php:162
+#: inc/widgets/cv-widget-functions.php:177
+msgid "Displays content on the top of the footer section."
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:145
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:160
+msgid "Footer Sidebar 3"
+msgstr ""
+
+#: inc/widgets/cv-widget-functions.php:175
+msgid "Footer Sidebar 4"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Easy Mart is a beautifully designed e-commerce theme fully compatible with "
+"the most popular WooCommerce plugin. The theme comes with a clean and "
+"elegant design and developer friendly. It is fully responsive, translation "
+"ready, SEO friendly and compatible with WooCommerce, YITH WooCommerce "
+"Wishlist, and popular plugin. Use this theme for your e-commerce website, "
+"you will feel the best ever experience. Get free support at https:"
+"//codevibrant.com/support/ and check the demo at http://demo.codevibrant."
+"com/easy-mart/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://codevibrant.com/wpthemes/easy-mart/"
+msgstr ""
+
+#. Author of the theme
+msgid "CodeVibrant"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://codevibrant.com/"
+msgstr ""
